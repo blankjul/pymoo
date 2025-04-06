@@ -1,6 +1,3 @@
-.. |travis| image:: https://travis-ci.com/msu-coinlab/pymoo.svg?branch=master
-   :alt: build status
-   :target: https://travis-ci.com/msu-coinlab/pymoo
 
 .. |python| image:: https://img.shields.io/badge/python-3.6-blue.svg
    :alt: python 3.6
@@ -27,7 +24,7 @@
 
 
 
-|travis| |python| |license|
+|python| |license|
 
 
 |logo|
