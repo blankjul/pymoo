@@ -10,7 +10,7 @@
    :target: https://www.apache.org/licenses/LICENSE-2.0
 
 
-.. |logo| image:: https://github.com/msu-coinlab/pymoo//raw/master/doc/source/_theme/custom_theme/static/img/pymoo_banner_github.png
+.. |logo| image:: https://pymoo.org/_static/header.jpg
   :target: https://pymoo.org
   :alt: pymoo
 
